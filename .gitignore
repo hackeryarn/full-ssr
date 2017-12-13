@@ -1,3 +1,4 @@
-build/
 .nvm/
 node_modules/
+build/
+public/
